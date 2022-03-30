@@ -2,7 +2,8 @@
 #### I'm a student Software Engineer in [Holberton School](https://www.holbertonschool.com/)
 <img align='center' alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" />
 
-- 🌱 I’m currently learning Python and C.
+- 🌱 I’m currently learning C, Python, SQL and JavaScript.
+- 🌿 I would like to learn Java and Selenium.
 
 # 📩 Contact
 
