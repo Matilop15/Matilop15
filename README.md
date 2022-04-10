@@ -4,7 +4,7 @@
 
 - 🌴 I have knowledge about HTML5, CSS3, C, Python, MySQL and Bash script. 
 - 🌱 I’m currently learning JavaScript.
-- 🌿 I would like to learn Java and Selenium.
+- 🌿 I would like to learn Java and Go.
 - 😎A small proyect in JavaScript: 
   https://matilop15.github.io/Platzi_JavaScript_Practical_Course/index.html
 
