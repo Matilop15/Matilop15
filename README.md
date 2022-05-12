@@ -2,7 +2,7 @@
 #### I'm a student Software Engineer in [Holberton School](https://www.holbertonschool.com/)
 <img align='center' alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" />
 
-- 🌴 I have knowledge about HTML5, CSS3, C, Python, MySQL and Bash script. 
+- 🌴 I have knowledge about HTML5, CSS3, C, Python, MySQL server and Bash script. 
 - 🌱 I’m currently learning JavaScript.
 - 🌿 I would like to learn Java<img src="https://img.icons8.com/color/20/000000/java-coffee-cup-logo--v1.png"/> and Go<img src="https://img.icons8.com/color/20/000000/golang.png"/>
 - 😎 A small proyect in JavaScript: 
