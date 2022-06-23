@@ -4,10 +4,10 @@
 
 - 🌴 I have knowledge about HTML5, CSS3, C, Python, MySQL server and Bash script. 
 - 🌱 I’m currently learning JavaScript.
-- 🌿 I would like to learn Java<img src="https://img.icons8.com/color/20/000000/java-coffee-cup-logo--v1.png"/> and Go<img src="https://img.icons8.com/color/20/000000/golang.png"/>
+- 🌿 I would like to learn Go<img src="https://img.icons8.com/color/20/000000/golang.png"/>
 - 😎 A proyect in JavaScript: 
   https://matilop15.github.io/Platzi_JavaScript_Practical_Course/index.html
-- 🤓 Web page created to enter Holberton: 
+- 🤓 Web page created to apply in Holberton: 
   https://matilop15.github.io/Holberton_webpage_apply/
 # 📩 Contact
 
