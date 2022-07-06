@@ -8,7 +8,7 @@
 
 #### 🤩 Holberton School final project:
   - https://ahorrapp.me
-  - The project is about a web scraping and price comparison.
+  - The project is about a web scraping for supermarket and product price comparison.
   
 #### 😎 A proyect in JavaScript: 
   - https://matilop15.github.io/Platzi_JavaScript_Practical_Course/index.html
