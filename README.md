@@ -9,7 +9,9 @@
 #### 🤩 Holberton School final project:
   - https://ahorrapp.me
   - The project is about a web scraping for supermarket and product price comparison.
-  
+  - Landing page for this proyect:
+      https://matilop15.github.io/Ahorrapp-landing-page/
+ 
 #### 😎 A proyect in JavaScript: 
   - https://matilop15.github.io/Platzi_JavaScript_Practical_Course/index.html
   - The project is a program that performs different calculations.
