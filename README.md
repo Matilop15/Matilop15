@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Matias López
-#### I'm a student Software Engineer in [Holberton School](https://www.holbertonschool.com/)
+#### Recently graduated full stack developer at [Holberton School](https://www.holbertonschool.com/)👨‍🎓
 <img align='center' alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" />
 
 - 🌴 I have knowledge about HTML5, CSS3, C, JavaScript, Python, Selenuim, Scrapy, Django, Nodejs, MySQL server, Nginx, and Bash script. 
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Nodejs.
 - 🌿 I would like to learn Go<img src="https://img.icons8.com/color/20/000000/golang.png"/>
 
 #### 🤩 Holberton School final project:
