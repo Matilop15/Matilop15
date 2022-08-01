@@ -7,7 +7,7 @@
 - 🌿 I would like to learn Go<img src="https://img.icons8.com/color/20/000000/golang.png"/>
 
 #### 🤩 Porfolio website:
-    - https://matilop15.github.io/portafolio/
+- https://matilop15.github.io/portafolio/
   
 # 📩 Contact
 
