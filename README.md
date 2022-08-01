@@ -6,23 +6,8 @@
 - 🌱 I’m currently learning Nodejs.
 - 🌿 I would like to learn Go<img src="https://img.icons8.com/color/20/000000/golang.png"/>
 
-#### 🤩 Holberton School final project:
-  - https://ahorrapp.me
-  - The project is about a web scraping for supermarket and product price comparison.
-  - Landing page for this proyect:
-      https://matilop15.github.io/Ahorrapp-landing-page/
-      
-#### 🤖 Whatsapp Chatbot:
-  - https://github.com/Matilop15/chatbot-whatsapp
-  - This project are a Whatsapp chatbot, develop whit Nodejs, Dialogflow and MongoDb.   
- 
-#### 😎 A proyect in JavaScript: 
-  - https://matilop15.github.io/Platzi_JavaScript_Practical_Course/index.html
-  - The project is a program that performs different calculations.
-  
-#### 🤓 Web page created to apply in Holberton: 
-  - https://matilop15.github.io/Holberton_webpage_apply/
-  - This project is a web page about Uruguay and its traditions.
+#### 🤩 Porfolio website:
+    - https://matilop15.github.io/portafolio/
   
 # 📩 Contact
 
